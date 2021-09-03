@@ -4,9 +4,15 @@ Sharing docker compose setup with which I get a 100% repo of [JENKINS-66470](htt
 
 ### Environment
 
+I've tested this on two systems with the same results:
+
 - MacOS Big Sur 11.5.2
   - Docker version 20.10.8, build 3967b7d
   - Docker Desktop version 3.6.0 (3.6.0.5487)
+
+- Windows 10
+  - Docker version 20.10.8, build 3967b7d
+  - Docker Desktop version 3.6.0 (67351)
 
 Start-up:
 
