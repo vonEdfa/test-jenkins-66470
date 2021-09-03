@@ -49,9 +49,9 @@ jenkins:
         - id: "Run/Replay"
         - id: "Run/Update"
         # Doesn't work
-        # - id: "View/Configure"
+        - id: "View/Configure"
         # Works
-        - id: "hudson.model.View.Configure"
+        # - id: "hudson.model.View.Configure"
         - id: "View/Create"
         - id: "View/Delete"
         - id: "View/Read"
